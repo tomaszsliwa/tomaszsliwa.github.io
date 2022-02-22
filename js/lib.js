@@ -4,5 +4,4 @@
 		$('body').addClass('loaded');
 
 	});
-	Boxlayout.init();
 })(jQuery);
